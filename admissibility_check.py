@@ -88,6 +88,7 @@ admissible(graph, heuristic,start,goal)
 
 
 # Sample INPUT and OUTPUT=============================================
+# Sample 1
 # Input Sample 
 # 6 7   //vertex edge count
 # 1 6   //initial,goal
@@ -108,3 +109,28 @@ admissible(graph, heuristic,start,goal)
 # Output Sample 
 # 1
 # As the heuristic values are admissible.
+
+# Sample 2
+# Input Sample 
+# 6 7
+# 1 6
+# 1 4
+# 2 3
+# 3 2
+# 4 2
+# 5 1
+# 6 0
+# 1 2
+# 2 3
+# 3 6
+# 1 4
+# 4 5
+# 5 6
+# 3 5
+
+# Output Sample 
+# 0
+# Inadmissible Nodes:
+# 1
+# 2
+# 3
