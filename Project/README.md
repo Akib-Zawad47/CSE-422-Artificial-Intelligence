@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=600&lines=CSE-422+%7C+Artificial+Intelligence;Customer+Churn+Prediction;Scikit-learn;TensorFlow;" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=600&lines=CSE-422+%7C+Artificial+Intelligence;Customer+Churn+Prediction;Scikit-learn+TensorFlow;" alt="Typing SVG" />
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3776AB,100:00C2A8&height=180&section=header&text=CSE-422%20AI&fontSize=45&fontColor=ffffff&animation=fadeIn" width="100%"/>
 </div>
 
